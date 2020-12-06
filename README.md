@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey 👋
+![ML meme](https://i.imgur.com/XL3K4eR.png)
 <!--
 **ben-xD/Ben-xD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
